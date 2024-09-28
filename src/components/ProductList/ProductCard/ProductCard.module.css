@@ -1,0 +1,12 @@
+.product {
+    background-color: rgb(212, 171, 171);
+    width: 25rem;
+    height: 25rem;
+
+    img {
+        width: 15rem;
+        height: 15rem;
+    }
+
+
+}
